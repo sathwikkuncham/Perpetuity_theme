@@ -2,7 +2,7 @@
   "name": "perpetuity-theme",
   "displayName": "Perpetuity Theme",
   "description": "A clean, modern theme with teal accents for Visual Studio Code",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "SathwikKuncham",
   "engines": {
     "vscode": "^1.60.0"
