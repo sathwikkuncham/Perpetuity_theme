@@ -136,6 +136,7 @@
     "inputValidation.warningBackground": "#ffaa00",
     "inputValidation.warningForeground": "#ffffff",
     "inputValidation.warningBorder": "#ffaa00",
+    "input.selectionBackground": "#c9e5e7", // Added for visible selection in input boxes
 
     // Badge
     "badge.background": "#06858e",
