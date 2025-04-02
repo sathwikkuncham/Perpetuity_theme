@@ -32,8 +32,13 @@
       }
     ]
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sathwikkuncham/Perpetuity_theme.git"
+  },
   "galleryBanner": {
     "color": "#06858e",
     "theme": "dark"
-  }
+  },
+  "icon": "images/Perpetuity_logo.png"
 }
