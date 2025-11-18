@@ -1,8 +1,8 @@
 {
   "name": "perpetuity-theme",
   "displayName": "Perpetuity Theme",
-  "description": "A clean, modern theme with teal accents for Visual Studio Code",
-  "version": "1.0.1",
+  "description": "A clean, modern theme with teal accents, semantic highlighting, and comprehensive syntax coverage for 20+ languages",
+  "version": "2.0.0",
   "publisher": "SathwikKuncham",
   "engines": {
     "vscode": "^1.60.0"
@@ -16,7 +16,15 @@
     "teal",
     "blue",
     "dark",
-    "light"
+    "light",
+    "semantic highlighting",
+    "typescript",
+    "javascript",
+    "python",
+    "react",
+    "modern",
+    "clean",
+    "professional"
   ],
   "contributes": {
     "themes": [
