@@ -10,10 +10,10 @@
     "variable.defaultLibrary": "#70ecec",
     "variable.constant": "#c792ea",
 
-    // Parameters - Distinct from regular variables
-    "parameter": "#d4a5a5",
-    "parameter.readonly": "#c7a2ea",
-    "parameter.declaration": "#d4a5a5",
+    // Parameters - Distinct from regular variables (gold/orange for high visibility)
+    "parameter": "#e0af68",
+    "parameter.readonly": "#d4a568",
+    "parameter.declaration": "#e0af68",
 
     // Properties - Distinct from variables
     "property": "#36c5c5",
@@ -325,7 +325,7 @@
       "name": "Comments",
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
-        "foreground": "#36a5a5"
+        "foreground": "#566b73"
       }
     },
     {
@@ -460,7 +460,7 @@
       "name": "Operators",
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#4de8e8"
+        "foreground": "#89ddff"
       }
     },
     {
@@ -608,7 +608,7 @@
         "meta.function.parameters variable"
       ],
       "settings": {
-        "foreground": "#d4a5a5",
+        "foreground": "#e0af68",
         "fontStyle": "italic"
       }
     },
