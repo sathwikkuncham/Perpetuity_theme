@@ -2,10 +2,18 @@
   "name": "perpetuity-theme",
   "displayName": "Perpetuity Theme",
   "description": "A clean, modern theme with teal accents, semantic highlighting, and comprehensive syntax coverage for 20+ languages",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "publisher": "SathwikKuncham",
+  "author": {
+    "name": "Sathwik Kuncham"
+  },
+  "license": "SEE LICENSE IN LICENSE",
   "engines": {
     "vscode": "^1.60.0"
+  },
+  "homepage": "https://github.com/sathwikkuncham/Perpetuity_theme#readme",
+  "bugs": {
+    "url": "https://github.com/sathwikkuncham/Perpetuity_theme/issues"
   },
   "categories": [
     "Themes"
