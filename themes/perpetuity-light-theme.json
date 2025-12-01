@@ -4,8 +4,8 @@
   "type": "light",
   "semanticHighlighting": true,
   "semanticTokenColors": {
-    // Variables - Different types get different colors (distinct from foreground)
-    "variable": "#0d5f6d",
+    // Variables - Different types get different colors (darker for better visibility)
+    "variable": "#074952",
     "variable.readonly": "#8e44ad",
     "variable.defaultLibrary": "#1e9ea6",
     "variable.constant": "#8e44ad",
@@ -15,11 +15,11 @@
     "parameter.readonly": "#9b7106",
     "parameter.declaration": "#b8860b",
 
-    // Properties - Distinct from variables
-    "property": "#1a7a85",
+    // Properties - Distinct from variables (darker for better visibility)
+    "property": "#116670",
     "property.readonly": "#9b59b6",
     "property.static": "#2eaab4",
-    "property.declaration": "#1a7a85",
+    "property.declaration": "#116670",
 
     // Functions & Methods
     "function": "#1e9ea6",
@@ -403,7 +403,7 @@
         "entity.name.variable"
       ],
       "settings": {
-        "foreground": "#0d5f6d"
+        "foreground": "#074952"
       }
     },
     {
@@ -492,7 +492,7 @@
         "support.type.property-name"
       ],
       "settings": {
-        "foreground": "#1a7a85"
+        "foreground": "#116670"
       }
     },
     {
@@ -620,7 +620,7 @@
         "variable.other.object.property"
       ],
       "settings": {
-        "foreground": "#1a7a85"
+        "foreground": "#116670"
       }
     },
     {
