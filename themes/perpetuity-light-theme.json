@@ -4,8 +4,8 @@
   "type": "light",
   "semanticHighlighting": true,
   "semanticTokenColors": {
-    // Variables - Different types get different colors
-    "variable": "#0a4a55",
+    // Variables - Different types get different colors (distinct from foreground)
+    "variable": "#0d5f6d",
     "variable.readonly": "#8e44ad",
     "variable.defaultLibrary": "#1e9ea6",
     "variable.constant": "#8e44ad",
@@ -403,7 +403,7 @@
         "entity.name.variable"
       ],
       "settings": {
-        "foreground": "#0a4a55"
+        "foreground": "#0d5f6d"
       }
     },
     {
@@ -492,7 +492,7 @@
         "support.type.property-name"
       ],
       "settings": {
-        "foreground": "#0a4a55"
+        "foreground": "#1a7a85"
       }
     },
     {

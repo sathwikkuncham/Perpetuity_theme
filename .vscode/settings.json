@@ -1,0 +1,12 @@
+{
+  // Force enable semantic highlighting for theme development
+  "editor.semanticHighlighting.enabled": true,
+
+  // Ensure TypeScript semantic tokens are enabled
+  "typescript.tsserver.experimental.enableProjectDiagnostics": true,
+
+  // Enable semantic tokens for all languages that support it
+  "editor.semanticTokenColorCustomizations": {
+    "enabled": true
+  }
+}
